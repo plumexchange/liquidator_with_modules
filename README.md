@@ -9,12 +9,6 @@ This project is a script designed to perform liquidations on the [Aave Protocol]
 - Supports configurable wallet and RPC settings
 - Clear logging of all actions and transaction results
 
-## 📦 Installation instructions
-
-Install dependencies
-`npm install`
-
-
 ## 🧪 Integration test
 This is an integration test, and will call external resources in ropsten network
 
